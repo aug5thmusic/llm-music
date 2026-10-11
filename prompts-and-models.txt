@@ -1,0 +1,7 @@
+# glass-harbour
+GPT-6 Astra (Ultra)
+In LilyPond, write an instrumental Japanese City Pop song.
+
+# neon-tide
+Claude Opus 5.5 (Extra High)
+In LilyPond, write an instrumental Japanese City Pop song.
