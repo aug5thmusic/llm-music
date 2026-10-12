@@ -1,0 +1,52 @@
+% ===== Paste into cIbassus: replace your rest bars with these lines =====
+  % --- Sec 7, bars 54-64: manet in aeternum (tutti led by Claude; Bassus I given)
+  f,\breve | % 54
+  g,1 a,1 | % 55
+  bes,1 c1~ | % 56
+  c1 bes,1 | % 57
+  a,1 d1 | % 58
+  g,1 c1 | % 59
+  f,1 bes,1 | % 60
+  g,1 a,1 | % 61
+  bes,1 a,1 | % 62
+  c\breve | % 63
+  f\breve | % 64
+  % --- Sec 12, bars 99-110: et in saecula saeculorum (tutti led by Claude; Bassus I given)
+  R\breve | % 99
+  R\breve | % 100
+  R\breve | % 101
+  R\breve | % 102
+  r1 d2 e2 | % 103
+  g2. f4 e2 d2 | % 104
+  c2 e2 f4 d4 c2 | % 105
+  bes,1 d1 | % 106
+  c1 bes,1 | % 107
+  d1 c1 | % 108
+  c'1 g1 | % 109
+  c1 r1 | % 110
+  % --- Sec 14, bars 117-130: Amen (tutti led by Claude; Bassus I given)
+  R\breve | % 117
+  R\breve | % 118
+  f,1 a,2 g,2 | % 119
+  c1 a,2 bes,2 | % 120
+  g,1 c1 | % 121
+  f,1 a,1 | % 122
+  c2 bes,2 g,1 | % 123
+  R\breve | % 124
+  f,1 c1 | % 125
+  bes,1 c1 | % 126
+  f,\breve | % 127
+  bes,\breve | % 128
+  f,\breve~ | % 129
+  f,\breve\fermata | % 130
+
+% ===== Paste into cIbassusText: each block after the line named =====
+% after the lyric line that follows "% From bar 31":
+  % From bar 54 (Claude: Bassus I in the tutti)
+  ma -- net in ae -- ter -- num, ma -- net in ae -- ter -- num, ma -- net in ae -- ter -- num.
+% after the lyric line that follows "% From bar 93":
+  % From bar 103 (Claude: Bassus I in the tutti)
+  et in sae -- cu -- la sae -- cu -- lo -- _ _ _ rum, in sae -- cu -- la sae -- cu -- lo -- rum.
+% after the lyric line that follows "% From bar 112":
+  % From bar 119 (Claude: Bassus I in the tutti)
+  A -- _ _ men, A -- _ _ men, A -- _ _ _ men, A -- _ _ _ men, A -- men.

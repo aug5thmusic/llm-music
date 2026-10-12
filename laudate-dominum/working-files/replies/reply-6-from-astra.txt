@@ -1,0 +1,2 @@
+Astra: "Saved [choir1.ly](D:/AI/Music/Composition/laudate-dominum/choir1.ly): resolved all four doubling passages, preserved text accents, and smoothed both optional passing notes.
+All counterpoint checks and 18 joins pass; compilation succeeds and MIDI matches the source."

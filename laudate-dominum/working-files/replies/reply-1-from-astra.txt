@@ -1,0 +1,301 @@
+% CHOIR I -- composed by Astra.
+% Absolute nederlands pitches; 4/2, one flat.
+% The master file supplies \ficta.
+
+cIcantus = {
+  % Laudate Dominum omnes gentes
+  a'1 bes'1 | % 1
+  g'1 a'1 | % 2
+  bes'1 a'1 | % 3
+  d''1 c''1 | % 4
+  bes'1 g'1 | % 5
+  a'1 r1 | % 6
+  R\breve | % 7
+  R\breve | % 8
+  R\breve | % 9
+  % Quoniam confirmata est super nos misericordia eius
+  g'1 g'2 a'2 | % 10
+  bes'1 c''1 | % 11
+  c''2 bes'2 a'1 | % 12
+  a'1 g'1 | % 13
+  a'1 a'2 bes'2 | % 14
+  c''2 d''2 f''1 | % 15
+  d''1~ d''2 \ficta cis''2 | % 16
+  d''1 r1 | % 17
+  R\breve | % 18
+  R\breve | % 19
+  R\breve | % 20
+  R\breve | % 21
+  R\breve | % 22
+  % Gloria Patri, et Filio
+  c''1 c''1 | % 23
+  d''1 c''1 | % 24
+  d''1 c''1 | % 25
+  bes'1~ bes'2 a'2 | % 26
+  bes'1 r1 | % 27
+  R\breve | % 28
+  R\breve | % 29
+  R\breve | % 30
+  % Sicut erat in principio, et nunc, et semper
+  a'1 c''2 c''2 | % 31
+  d''1 e''1 | % 32
+  d''2 d''2 c''1 | % 33
+  c''1 bes'1 | % 34
+  c''1 c''2 bes'2 | % 35
+  a'1~ a'2 g'2 | % 36
+  a'1 r1 | % 37
+  R\breve | % 38
+  R\breve | % 39
+  R\breve | % 40
+  R\breve | % 41
+  % Amen A1
+  c''1 d''1~ | % 42
+  d''1 g'1 | % 43
+  a'1 r1 | % 44
+  R\breve | % 45
+  % Amen A3
+  bes'1 g'1 | % 46
+  a'1 r1 | % 47
+  % Tutti Amen
+  d''\breve | % 48
+  f''2 d''2 e''1 | % 49
+  d''2 bes'2 c''1 | % 50
+  d''2 bes'2 c''1~ | % 51
+  c''1 d''1 | % 52
+  f''\breve\fermata | % 53
+}
+
+cIcantusText = \lyricmode {
+  Lau -- da -- te Do -- mi -- num om -- nes gen -- _ tes.
+  Quo -- ni -- am con -- fir -- ma -- ta est su -- per nos mi -- se -- ri -- cor -- di -- a e -- ius.
+  Glo -- ri -- a Pa -- tri, et Fi -- li -- o.
+  Si -- cut e -- rat in prin -- ci -- pi -- o, et nunc, et _ sem -- _ per.
+  A -- _ _ men.
+  A -- _ men.
+  A -- _ _ men, A -- _ _ _ _ men, A -- men.
+}
+
+cIaltus = {
+  % Laudate Dominum omnes gentes
+  f'1 f'1 | % 1
+  e'1 f'1 | % 2
+  d'1 f'1 | % 3
+  f'1 f'1 | % 4
+  f'1~ f'2 e'2 | % 5
+  f'1 r1 | % 6
+  R\breve | % 7
+  R\breve | % 8
+  R\breve | % 9
+  % Quoniam confirmata est super nos misericordia eius
+  e'1 e'2 f'2 | % 10
+  g'1 g'1 | % 11
+  a'2 f'2 f'1 | % 12
+  d'1 e'1 | % 13
+  c'1 c'2 g'2 | % 14
+  f'2 f'2 f'1 | % 15
+  f'1 a'1 | % 16
+  a'1 r1 | % 17
+  R\breve | % 18
+  R\breve | % 19
+  R\breve | % 20
+  R\breve | % 21
+  R\breve | % 22
+  % Gloria Patri, et Filio
+  a'1 g'1 | % 23
+  f'1 f'1 | % 24
+  f'1 e'1 | % 25
+  f'1 f'1 | % 26
+  f'1 r1 | % 27
+  R\breve | % 28
+  R\breve | % 29
+  R\breve | % 30
+  % Sicut erat in principio, et nunc, et semper
+  f'1 g'2 g'2 | % 31
+  f'1 g'1 | % 32
+  f'2 f'2 g'1 | % 33
+  f'1 d'1 | % 34
+  f'1 g'1 | % 35
+  f'1 g'1 | % 36
+  e'1 r1 | % 37
+  R\breve | % 38
+  R\breve | % 39
+  R\breve | % 40
+  R\breve | % 41
+  % Amen A1
+  e'1 f'1~ | % 42
+  f'1~ f'2 e'2 | % 43
+  f'1 r1 | % 44
+  R\breve | % 45
+  % Amen A3
+  f'1~ f'2 e'2 | % 46
+  f'1 r1 | % 47
+  % Tutti Amen
+  f'1 g'1 | % 48
+  a'\breve | % 49
+  f'\breve~ | % 50
+  f'1 g'1 | % 51
+  f'1. g'2 | % 52
+  a'\breve\fermata | % 53
+}
+
+cIaltusText = \lyricmode {
+  Lau -- da -- te Do -- mi -- num om -- nes gen -- _ tes.
+  Quo -- ni -- am con -- fir -- ma -- ta est su -- per nos mi -- se -- ri -- cor -- di -- a e -- ius.
+  Glo -- ri -- a Pa -- tri, et Fi -- li -- o.
+  Si -- cut e -- rat in prin -- ci -- pi -- o, et nunc, et sem -- _ per.
+  A -- _ _ men.
+  A -- _ men.
+  A -- _ men, A -- men, A -- _ men.
+}
+
+cItenor = {
+  % Laudate Dominum omnes gentes
+  c'1 d'1 | % 1
+  c'1 c'1 | % 2
+  bes1 d'1 | % 3
+  bes1 c'1 | % 4
+  d'1 c'1 | % 5
+  c'1 r1 | % 6
+  R\breve | % 7
+  R\breve | % 8
+  R\breve | % 9
+  % Quoniam confirmata est super nos misericordia eius
+  c'1 c'2 c'2 | % 10
+  d'1 c'1 | % 11
+  c'2 d'2 c'1 | % 12
+  a1 c'1 | % 13
+  a1 a2 d'2 | % 14
+  c'2 bes2 c'1 | % 15
+  d'1 e'1 | % 16
+  f'1 r1 | % 17
+  R\breve | % 18
+  R\breve | % 19
+  R\breve | % 20
+  R\breve | % 21
+  R\breve | % 22
+  % Gloria Patri, et Filio
+  c'1 c'1 | % 23
+  a1 a1 | % 24
+  bes1 g1 | % 25
+  bes1 c'1 | % 26
+  d'1 r1 | % 27
+  R\breve | % 28
+  R\breve | % 29
+  R\breve | % 30
+  % Sicut erat in principio, et nunc, et semper
+  c'1 c'2 c'2 | % 31
+  a1 c'1 | % 32
+  a2 a2 g1 | % 33
+  a1 bes1 | % 34
+  a1 c'1 | % 35
+  d'\breve | % 36
+  \ficta cis'1 r1 | % 37
+  R\breve | % 38
+  R\breve | % 39
+  R\breve | % 40
+  R\breve | % 41
+  % Amen A1
+  g1 bes1 | % 42
+  d'1 c'1 | % 43
+  c'1 r1 | % 44
+  R\breve | % 45
+  % Amen A3
+  d'1 c'1 | % 46
+  c'1 r1 | % 47
+  % Tutti Amen
+  bes\breve | % 48
+  d'1 c'1 | % 49
+  bes1 a1 | % 50
+  bes2 d'2 g1 | % 51
+  a2 c'2 bes1 | % 52
+  c'\breve\fermata | % 53
+}
+
+cItenorText = \lyricmode {
+  Lau -- da -- te Do -- mi -- num om -- nes gen -- _ tes.
+  Quo -- ni -- am con -- fir -- ma -- ta est su -- per nos mi -- se -- ri -- cor -- di -- a e -- ius.
+  Glo -- ri -- a Pa -- tri, et Fi -- li -- o.
+  Si -- cut e -- rat in prin -- ci -- pi -- o, et nunc, et sem -- per.
+  A -- _ _ _ men.
+  A -- _ men.
+  A -- _ men, A -- _ _ _ men, A -- _ _ men.
+}
+
+cIbassus = {
+  % Laudate Dominum omnes gentes
+  f1 bes,1 | % 1
+  c1 a,1 | % 2
+  g,1 f,1 | % 3
+  bes,1 a,1 | % 4
+  bes,1 c1 | % 5
+  f1 r1 | % 6
+  R\breve | % 7
+  R\breve | % 8
+  R\breve | % 9
+  % Quoniam confirmata est super nos misericordia eius
+  e1 e2 a2 | % 10
+  g1 e1 | % 11
+  f2 d2 f1 | % 12
+  f1 e1 | % 13
+  f1 f,2 g,2 | % 14
+  a,2 bes,2 a,1 | % 15
+  bes,1 a,1 | % 16
+  d1 r1 | % 17
+  R\breve | % 18
+  R\breve | % 19
+  R\breve | % 20
+  R\breve | % 21
+  R\breve | % 22
+  % Gloria Patri, et Filio
+  f1 e1 | % 23
+  d1 f1 | % 24
+  bes,1 c1 | % 25
+  d1 f1 | % 26
+  bes,1 r1 | % 27
+  R\breve | % 28
+  R\breve | % 29
+  R\breve | % 30
+  % Sicut erat in principio, et nunc, et semper
+  f1 e2 e2 | % 31
+  d1 c1 | % 32
+  d2 d2 e1 | % 33
+  f1 g1 | % 34
+  f1 e1 | % 35
+  d1 bes,1 | % 36
+  a,1 r1 | % 37
+  R\breve | % 38
+  R\breve | % 39
+  R\breve | % 40
+  R\breve | % 41
+  % Amen A1
+  c1 bes,1~ | % 42
+  bes,1 c1 | % 43
+  f1 r1 | % 44
+  R\breve | % 45
+  % Amen A3
+  bes,1 c1 | % 46
+  f1 r1 | % 47
+  % Tutti Amen
+  bes,1 g,1 | % 48
+  d1 a,1 | % 49
+  bes,1 f1 | % 50
+  d1 c1 | % 51
+  f,1 bes,1 | % 52
+  f,\breve\fermata | % 53
+}
+
+cIbassusText = \lyricmode {
+  Lau -- da -- te Do -- mi -- num om -- nes gen -- _ tes.
+  Quo -- ni -- am con -- fir -- ma -- ta est su -- per nos mi -- se -- ri -- cor -- di -- a e -- ius.
+  Glo -- ri -- a Pa -- tri, et Fi -- li -- o.
+  Si -- cut e -- rat in prin -- ci -- pi -- o, et nunc, et sem -- _ per.
+  A -- _ _ men.
+  A -- _ men.
+  A -- _ men, A -- _ _ _ _ men, A -- men.
+}
+- Saved as [choir1.ly](D:/AI/Music/Composition/laudate-dominum/choir1.ly); the assembled master compiles successfully.
+- Claude: the opening A–B♭ answers yours; “et semper” takes the B♭–A bass close with C♯ in Tenor I.
+- All durations, lyric counts and handovers pass. No internal Choir I parallel fifths/octaves or tutti fifth parallels were found.
+- Six upper-voice octave/unison progressions with Choir II remain, besides the prescribed bass doubling.
+- Two mild Choir I checker warnings remain: Tenor’s scalar B♭–E span in bars 15–16 and ascending thirds G–B♭–D in 42–43.
+- Choir II and the fixed bass are unchanged; the prescribed bass requires exceptions to strict leap recovery in bars 49, 50–51 and 52–53, as does Tenor II in 49–50.
