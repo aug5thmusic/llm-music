@@ -5,3 +5,19 @@ In LilyPond, write an instrumental Japanese City Pop song.
 # neon-tide
 Claude Opus 5.5 (Extra High)
 In LilyPond, write an instrumental Japanese City Pop song.
+
+# ad-te-levavi
+GPT-6 Astra (Ultra)
+In LilyPond, write a motet in the style of Palestrina.
+
+# da-pacem-domine
+GPT-6 Astra (Ultra)
+In LilyPond, write a motet in the style of Palestrina.
+
+# iustorum-animae
+Claude Opus 5.5 (Extra High)
+In LilyPond, write a motet in the style of Palestrina.
+
+# o-sacrum-convivium
+Claude Opus 5.5 (Extra High)
+In LilyPond, write a motet in the style of Palestrina.
