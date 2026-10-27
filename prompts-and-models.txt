@@ -21,3 +21,17 @@ In LilyPond, write a motet in the style of Palestrina.
 # o-sacrum-convivium
 Claude Opus 5.5 (Extra High)
 In LilyPond, write a motet in the style of Palestrina.
+
+# Three Pieces for Lute
+
+## a-pavan-for-the-waning-light
+GPT-6 Astra (Extra High)
+In LilyPond, write a piece for lute in the style of John Dowland.
+
+## a-fancy-of-falling-leaves
+GPT-6 Astra (Extra High)
+Write another one.
+
+## the-moths-galliard
+GPT-6 Astra (Extra High)
+Write another one.
