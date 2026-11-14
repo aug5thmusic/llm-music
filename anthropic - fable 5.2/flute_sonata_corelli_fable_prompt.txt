@@ -1,0 +1,33 @@
+# flute_sonata_corelli_fable
+Nov 10, 2026
+
+## Prompt 1
+Use this figured bass as the starting point for a flute sonata movement in the Baroque style. Use two staves for the basso continuo and one for the flute. Respond with only the code block.
+
+```
+\version "2.24.0"
+
+\score {
+  <<
+    \new Staff \relative c' {
+      \clef bass
+      \time 3/2
+      \partial 2
+      a2 | a1 gis2 | a2 c,2 d2 | e2 e,1 | a1. \bar "|."
+    }
+
+    \figures {
+      \time 3/2
+      \partial 2
+      s2 | <4 2>1 <6>2 | <9>2 <6>2 <3>2 | <6 4>2 <5 4>2 <_+>2 |
+    }
+  >>
+  \layout { }
+}
+```
+
+## Prompt 2
+Compose an allegro to follow this movement.
+
+## Prompt 3
+Compose a largo, the sonata's third movement. The movement after this, the fourth, will be the last.

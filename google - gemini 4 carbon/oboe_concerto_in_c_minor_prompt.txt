@@ -1,0 +1,4 @@
+Gemini 4 Carbon
+High effort
+
+Prompt: “In LilyPond, write the opening movement of an oboe concerto in the virtuosic style of Vivaldi, C minor, 2/4 time, allegro. Give the music a serious and regal character, with a variety of runs and dotted rhythms. Use two staves for the basso continuo and one for the oboe. Use the ritornello form, and do not introduce the soloist until the second section. Make the basso continuo part as dynamic and interesting as the oboe.” (High effort)

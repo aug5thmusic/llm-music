@@ -1,0 +1,5 @@
+# fugue-in-d-minor_fable
+Claude Fable 5.2
+Nov 10, 2026
+
+In LilyPond (version 2.24), write a complete fugue for organ in the style of Bach.

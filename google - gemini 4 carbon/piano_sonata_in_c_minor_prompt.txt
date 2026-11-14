@@ -1,0 +1,4 @@
+Gemini 4 Carbon
+High effort
+
+Prompt: “In LilyPond, write the opening movement of a piano sonata (in sonata-allegro form) in the style of Beethoven. Return only the code block.”

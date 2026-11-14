@@ -1,0 +1,4 @@
+GPT-6 Astra
+Ultra effort
+
+Prompt: “In LilyPond, write a fugue for organ in E major without ever using the note E (or its enharmonic spellings).”

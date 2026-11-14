@@ -1,0 +1,4 @@
+GPT-6 Astra
+Extra High effort
+
+Prompt: “In LilyPond, write a fugue for organ using the theme from Wagner's Ride of the Valkyries.”
