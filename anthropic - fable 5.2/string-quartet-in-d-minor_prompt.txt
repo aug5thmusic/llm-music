@@ -1,0 +1,5 @@
+Prompt 1: “In LilyPond, write the opening movement of a string quartet (in sonata-allegro form) in the style of Mozart. Return only the code block.” 
+Prompt 2: “In LilyPond, write the slow movement of a string quartet in the style of Mozart. Return only the code block.”
+Prompt 3: “In LilyPond, write a minuet and trio for string quartet in the style of Mozart, D major. Return only the code block.”
+Prompt 4: “In LilyPond, write the final movement of a string quartet in the style of Mozart, G major. Return only the code block.”
+(Extra High effort)

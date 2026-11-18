@@ -1,0 +1,2 @@
+"In LilyPond, write a solo piano piece in the style of Grieg."
+(Extra High effort)

@@ -1,0 +1,2 @@
+"In LilyPond, write a virtuosic solo piano piece in the style of Liszt."
+(Extra High effort)

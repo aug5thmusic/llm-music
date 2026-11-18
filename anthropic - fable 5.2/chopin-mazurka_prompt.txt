@@ -1,0 +1,4 @@
+# Claude Fable 5.2
+Extra High Effort
+
+Prompt: "In LilyPond, write a mazurka for piano in the style of Chopin."
