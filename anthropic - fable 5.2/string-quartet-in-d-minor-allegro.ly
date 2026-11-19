@@ -60,7 +60,7 @@
 %   141-147 The motto in octaves, ff; Neapolitan sixth, diminished seventh, cadence;
 %           the three quavers on A now fall to the tonic chord.
 %
-% BUILD: lilypond -o output/pdf/string-quartet-in-d-minor-allegro string-quartet-in-d-minor-allegro.ly
+% BUILD: lilypond -dno-point-and-click -o output/pdf/string-quartet-in-d-minor-allegro string-quartet-in-d-minor-allegro.ly
 
 \header {
   title = "String Quartet in D minor"

@@ -17,7 +17,7 @@
 % 65-72 dominant preparation;
 % 73-76 augmented subject head in the pedal; 77-80 coda with Picardy third.
 %
-% BUILD: lilypond -o output/pdf/valkyries-fugue/valkyries-fugue valkyries-fugue.ly
+% BUILD: lilypond -dno-point-and-click -o output/pdf/valkyries-fugue/valkyries-fugue valkyries-fugue.ly
 % Compilation produces both PDF and MIDI. No external includes are required.
 
 \header {

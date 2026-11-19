@@ -22,7 +22,7 @@
 % Repeats may receive light graces. Lift the dance lightly; do not rush the
 % eighth-note divisions. Give the final major third warmth, not extra weight.
 %
-% Build: lilypond -o output/pdf/the-moths-galliard the-moths-galliard.ly
+% Build: lilypond -dno-point-and-click -o output/pdf/the-moths-galliard the-moths-galliard.ly
 % MIDI unfolds the repeats and uses nylon guitar as a lute substitute.
 
 \header {

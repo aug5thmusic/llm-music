@@ -28,7 +28,7 @@
 %
 % Registration: manuals 8' + 4'; pedal 16' + 8'; no manual-to-pedal coupler.
 % Use a light, clear attack; sustain written values without romantic rubato.
-% Build: lilypond -o output/pdf/fugue-in-e-major-without-e fugue-in-e-major-without-e.ly
+% Build: lilypond -dno-point-and-click -o output/pdf/fugue-in-e-major-without-e fugue-in-e-major-without-e.ly
 
 \header {
   title = "The Absent Tonic"

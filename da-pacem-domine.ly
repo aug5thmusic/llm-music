@@ -4,7 +4,7 @@
 % DA PACEM, DOMINE -- original SATB motet in the style of Palestrina.
 % This is new music, not an arrangement of a historical motet or chant.
 % Absolute pitches throughout: c' = middle C.
-% Compile: lilypond -o output/pdf/da-pacem-domine da-pacem-domine.ly
+% Compile: lilypond -dno-point-and-click -o output/pdf/da-pacem-domine da-pacem-domine.ly
 %
 % Text: Da pacem, Domine, in diebus nostris: quia non est alius
 % qui pugnet pro nobis, nisi tu, Deus noster.

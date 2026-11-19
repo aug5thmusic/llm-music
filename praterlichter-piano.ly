@@ -47,7 +47,7 @@
 % Viennese way, but only in the A strains. Keep the left-hand chords light.
 %
 % BUILD (from this directory)
-% lilypond -o output/pdf/praterlichter praterlichter.ly
+% lilypond -dno-point-and-click -o output/pdf/praterlichter-piano praterlichter-piano.ly
 
 \header {
   title = "Praterlichter"

@@ -27,7 +27,7 @@
 % independently. Allow the final major third to brighten the dying sound.
 % MIDI uses nylon guitar as a lute substitute.
 %
-% Build: lilypond -o output/pdf/a-fancy-of-falling-leaves a-fancy-of-falling-leaves.ly
+% Build: lilypond -dno-point-and-click -o output/pdf/a-fancy-of-falling-leaves a-fancy-of-falling-leaves.ly
 
 \header {
   title = "A Fancy of Falling Leaves"

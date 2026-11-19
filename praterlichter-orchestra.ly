@@ -53,7 +53,7 @@
 % the MIDI (tags 'print / 'midi). No double angle brackets anywhere.
 %
 % BUILD (from this directory)
-% lilypond -o output/pdf/praterlichter-orchestra praterlichter-orchestra.ly
+% lilypond -dno-point-and-click -o output/pdf/praterlichter-orchestra praterlichter-orchestra.ly
 
 \header {
   title = "Praterlichter"

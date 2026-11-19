@@ -25,7 +25,7 @@
 % The MIDI unfolds all repeats and uses nylon guitar as a lute substitute.
 %
 % Build from the workspace root:
-% lilypond -o output/pdf/a-pavan-for-the-waning-light a-pavan-for-the-waning-light.ly
+% lilypond -dno-point-and-click -o output/pdf/a-pavan-for-the-waning-light a-pavan-for-the-waning-light.ly
 
 \header {
   title = "A Pavan for the Waning Light"

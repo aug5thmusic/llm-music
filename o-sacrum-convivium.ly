@@ -44,7 +44,7 @@
 % passing note, neighbour, cambiata), parallels, melodic intervals, ranges and
 % text underlay. The compiled MIDI was then checked again independently.
 %
-% Compile: lilypond -o output/pdf/o-sacrum-convivium o-sacrum-convivium.ly
+% Compile: lilypond -dno-point-and-click -o output/pdf/o-sacrum-convivium o-sacrum-convivium.ly
 % This writes the PDF and the MIDI file.
 
 \header {

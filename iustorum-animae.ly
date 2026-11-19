@@ -44,7 +44,7 @@
 % passing note, neighbour, cambiata), parallels, melodic intervals, ranges and
 % text underlay. The compiled MIDI was then checked again independently.
 %
-% Compile: lilypond -o output/pdf/iustorum-animae iustorum-animae.ly
+% Compile: lilypond -dno-point-and-click -o output/pdf/iustorum-animae iustorum-animae.ly
 % This writes the PDF and the MIDI file.
 
 \header {

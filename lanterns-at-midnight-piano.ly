@@ -12,7 +12,7 @@
 % Avoid sustaining the accompanying chords through the next bass attack.
 % The MIDI unfolds every repeat and follows the written tempo changes.
 % Compile from this directory:
-% lilypond -dno-point-and-click -o output/pdf/lanterns-at-midnight lanterns-at-midnight.ly
+% lilypond -dno-point-and-click -o output/pdf/lanterns-at-midnight-piano lanterns-at-midnight-piano.ly
 
 \header {
   title = "Lanterns at Midnight"

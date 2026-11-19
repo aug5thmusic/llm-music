@@ -8,7 +8,7 @@
 % All pitches are absolute; c' is middle C. Tenor sounds as written.
 % Modern barlines and clefs; suggested cadential sharps printed above notes.
 % The imitation subjects are newly composed, not quotations.
-% Compile: lilypond -o output/pdf/ad-te-levavi ad-te-levavi.ly
+% Compile: lilypond -dno-point-and-click -o output/pdf/ad-te-levavi ad-te-levavi.ly
 
 \header {
   title = "Ad te levavi"
